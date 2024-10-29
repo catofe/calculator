@@ -1,3 +1,8 @@
+# Multiplication 
+def multiply(x, y):
+    z = x * y
+    return z
+
 # division function
 def divide(x, y):
     try:
