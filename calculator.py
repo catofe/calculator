@@ -1,3 +1,8 @@
+# Subtraction  
+def subtraction(x, y):
+    z = x - y
+    return z
+
 # Addition  
 def addition(x, y):
     z = x + y
@@ -8,7 +13,7 @@ def multiply(x, y):
     z = x * y
     return z
 
-# division function
+# Division
 def divide(x, y):
     try:
         out = x / y
