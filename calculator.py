@@ -1,4 +1,4 @@
-# Addition  
-def addition(x, y):
-    z = x + y
+# Subtraction  
+def subtraction(x, y):
+    z = x - y
     return z
