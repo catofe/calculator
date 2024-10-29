@@ -1,3 +1,8 @@
+# Addition  
+def addition(x, y):
+    z = x + y
+    return z
+
 # Multiplication 
 def multiply(x, y):
     z = x * y
