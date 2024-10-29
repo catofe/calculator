@@ -1,4 +1,4 @@
-# Multiplication 
-def multiply(x, y):
-    z = x * y
+# Addition  
+def addition(x, y):
+    z = x + y
     return z
